@@ -1,0 +1,23 @@
+.bg-custom {
+  background-color: #fff !important;
+  transition: 0.3s;
+  border: 1px solid #ff496e;
+  color: #ff496e !important;
+}
+
+.bg-custom:hover {
+  background-color: #ff496e !important;
+  border: 1px solid rgba(0, 0, 0, 0);
+  color: #fff !important;
+}
+
+.bg-active {
+  background-color: #fff !important;
+  transition: 0.3s;
+  border: 0px;
+  color: #ff496e !important;
+}
+
+.navbar {
+  width: 100%;
+}
